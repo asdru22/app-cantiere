@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">AppCantiere</string>
+    <string name="app_name" translatable="false">Aedifico</string>
 
     <!-- Categoria: Allestimento cantiere e recinzioni -->
     <string name="allestimento_cantiere_e_recinzioni">Allestimento cantiere e recinzioni</string>
@@ -216,7 +216,7 @@
     <string name="tappi_auricolari">Tappi auricolari</string>
     <string name="mascherina_respiratore">Mascherina respiratore</string>
     <string name="imbracatura_sicurezza">Imbracatura sicurezza</string>
-    <string name="giubbotto_alta_visibilità">Giubbotto alta visibilità</string>
+    <string name="giubbotto_alta_visibilita">Giubbotto alta visibilità</string>
 
     <!-- Categoria: Lavori edili: attrezzi ferraiolo e carpentiere -->
     <string name="lavori_edili_attrezzi_ferraiolo_e_carpentiere">Lavori edili: attrezzi ferraiolo e carpentiere</string>
@@ -311,4 +311,15 @@
     <string name="centro_commerciale">Centro commerciale</string>
     <string name="stadio">Stadio</string>
     <string name="auditorium">Auditorium</string>
+    <string name="ui_sezione_completata">Hai completato la sezione!</string>
+    <string name="ui_inizia_quiz">Inizia Quiz</string>
+    <string name="ui_ascolta">Ascolta</string>
+    <string name="ui_prossimo">Prossimo</string>
+    <string name="ui_caricamento_quiz">Caricamento Quiz…</string>
+    <string name="ui_quiz_completato">Quiz Completato!</string>
+    <string name="ui_punteggio">Punteggio: %s/%s</string>
+    <string name="ui_home">Torna alla home</string>
+    <string name="ui_domanda">Domanda %s/%s</string>
+    <string name="ui_cosa_rappresenta_immagine">Cosa rappresenta questa immagine?</string>
+    <string name="ui_app_desc">Aedifico - Impara i termini del cantiere</string>
 </resources>

@@ -25,7 +25,7 @@
     <string name="tracciato">Layout</string>
     <string name="vasca_acqua">Water tank</string>
     <string name="recinzione">Fence</string>
-    <string name="bagno_chimico">Possible chemical toilet</string>
+    <string name="bagno_chimico">Chemical toilet</string>
     <string name="gruppo_elettrogeno">Generator</string>
     <string name="passo_carrabile">Driveway</string>
 
@@ -217,7 +217,7 @@
     <string name="tappi_auricolari">Earplugs</string>
     <string name="mascherina_respiratore">Respirator</string>
     <string name="imbracatura_sicurezza">Safety harness</string>
-    <string name="giubbotto_alta_visibilità">High-visibility vest</string>
+    <string name="giubbotto_alta_visibilita">High-visibility vest</string>
 
     <!-- Category: Construction work: steel fixer and carpenter tools -->
     <string name="lavori_edili_attrezzi_ferraiolo_e_carpentiere">Construction work: steel fixer and carpenter tools</string>
@@ -312,4 +312,16 @@
     <string name="centro_commerciale">Shopping center</string>
     <string name="stadio">Stadium</string>
     <string name="auditorium">Auditorium</string>
+
+    <string name="ui_sezione_completata">You completed the section!</string>
+    <string name="ui_inizia_quiz">Start Quiz</string>
+    <string name="ui_ascolta">Listen</string>
+    <string name="ui_prossimo">Next</string>
+    <string name="ui_caricamento_quiz">Loading Quiz…</string>
+    <string name="ui_quiz_completato">Quiz Completed!</string>
+    <string name="ui_punteggio">Score: %s/%s</string>
+    <string name="ui_home">Back to Home</string>
+    <string name="ui_domanda">Question %s/%s</string>
+    <string name="ui_cosa_rappresenta_immagine">What does this image represent?</string>
+    <string name="ui_app_desc">Aedifico - Learn construction site terms</string>
 </resources>

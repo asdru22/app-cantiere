@@ -38,10 +38,12 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.asdru.appcantiere.R
 import com.asdru.appcantiere.data.Tool
 import com.asdru.appcantiere.data.ToolRepository
 import kotlinx.coroutines.launch
@@ -102,7 +104,7 @@ fun LearningScreen(
         horizontalAlignment = Alignment.CenterHorizontally
       ) {
         Text(
-          text = "Hai completato la sezione!",
+          text = stringResource(R.string.ui_sezione_completata),
           style = MaterialTheme.typography.headlineMedium,
           textAlign = TextAlign.Center
         )
@@ -113,7 +115,7 @@ fun LearningScreen(
             .fillMaxWidth()
             .height(56.dp)
         ) {
-          Text("Inizia Quiz", fontSize = 18.sp)
+          Text(stringResource(R.string.ui_inizia_quiz), fontSize = 18.sp)
         }
       }
     }
@@ -175,7 +177,10 @@ fun ToolDetailView(
       onClick = onAudioClick,
       modifier = Modifier
         .size(72.dp)
-        .background(MaterialTheme.colorScheme.primaryContainer, shape = RoundedCornerShape(50))
+        .background(
+          MaterialTheme.colorScheme.primaryContainer,
+          shape = RoundedCornerShape(50)
+        )
     ) {
       Icon(
         imageVector = Icons.AutoMirrored.Default.VolumeUp,
@@ -186,7 +191,7 @@ fun ToolDetailView(
     }
 
     Text(
-      text = "Ascolta",
+      text = stringResource(R.string.ui_ascolta),
       style = MaterialTheme.typography.labelLarge,
       modifier = Modifier.padding(top = 8.dp)
     )
@@ -194,7 +199,7 @@ fun ToolDetailView(
     Spacer(modifier = Modifier.weight(1f))
 
     Button(onClick = onNext) {
-      Text("Prossimo")
+      Text(stringResource(R.string.ui_prossimo))
     }
     Spacer(modifier = Modifier.height(16.dp))
   }

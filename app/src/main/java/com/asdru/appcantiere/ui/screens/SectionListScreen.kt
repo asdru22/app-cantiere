@@ -16,7 +16,9 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
+import com.asdru.appcantiere.R
 import com.asdru.appcantiere.data.ToolRepository
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -29,7 +31,7 @@ fun SectionListScreen(
 
   Scaffold(
     topBar = {
-      TopAppBar(title = { Text("App Cantiere - Impara gli Strumenti") })
+      TopAppBar(title = { Text(stringResource(R.string.ui_app_desc)) })
     }
   ) { innerPadding ->
     LazyColumn(
