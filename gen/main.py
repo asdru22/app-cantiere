@@ -6,7 +6,8 @@ from PIL import Image
 from google import genai
 from google.genai import types
 
-json_source_path = Path(r"C:\Users\Ale\Documents\GitHub\AppCantiere\app\src\main\assets\tools_data.json")
+#json_source_path = Path(r"C:\Users\Ale\Documents\GitHub\AppCantiere\app\src\main\assets\tools_data.json")
+json_source_path = Path(r"fix.json")
 
 project_root = json_source_path.parents[4]
 drawable_folder = project_root / "app" / "src" / "main" / "res" / "drawable"
@@ -52,7 +53,7 @@ for categoria in categories:
         print(f"Generazione immagine per '{obj}' in corso...")
 
         try:
-            prompt = (f"Crea un immagine realistica di {obj} dimensione 512x512, sfondo bianco. CONTESTO: Cantiere/costruzione/edilizia, {nome_cat}")
+            prompt = (f"Crea un immagine realistica di {obj} dimensione 512x512, sfondo bianco. CONTESTO: Cantiere/costruzione/edilizia, CATEGORIA: {nome_cat}. Non includere parole, design moderni NON FUTURISTICI. Non prendere i nomi alla lettera, pensa alla loro applicazione in un cantiere. Fai occupare agli oggetti il piu spazio dell'immagine. Se la categoria è tipologie_costruzioni, rappresenta gli edifici come completati. Non mettere decorazioni o sfondi inutili al dilà dell'oggetto richiesto")
 
             response = client.models.generate_content(
                 model="gemini-2.5-flash-image",

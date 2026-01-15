@@ -96,7 +96,7 @@
     <string name="trave">Beam</string>
     <string name="tubo_convogliatore_macerie">Rubble chute</string>
     <string name="architrave">Lintel</string>
-    <string name="tamponamento">Infill wall</string>
+    <string name="muratura_di_tamponamento">Infill masonry</string>
     <string name="manto_copertura">Covering</string>
     <string name="gronda">Eaves</string>
     <string name="caldaia">Boiler</string>
@@ -132,7 +132,7 @@
     <string name="lampadina">Light bulb</string>
     <string name="presa_corrente">Power socket</string>
     <string name="scatola_incasso">Junction box</string>
-    <string name="traccia">Chase</string>
+    <string name="tracciamento_scavi">Excavation tracing</string>
     <string name="differenziale">RCD</string>
     <string name="corrugato">Corrugated conduit</string>
     <string name="citofono">Intercom</string>
@@ -157,7 +157,7 @@
     <string name="muretto">Low wall</string>
     <string name="muro_parete">Wall</string>
     <string name="pavimento">Floor</string>
-    <string name="pianerottolo">Landing</string>
+    <string name="pianerottolo_scala">Landing</string>
     <string name="piano_casa">Floor</string>
     <string name="porta">Door</string>
     <string name="selciato">Cobblestone</string>
@@ -306,7 +306,7 @@
     <string name="ospedale">Hospital</string>
     <string name="piscina">Swimming pool</string>
     <string name="porto">Port</string>
-    <string name="stazione">Station</string>
+    <string name="stazione_ferroviaria">Station</string>
     <string name="museo">Museum</string>
     <string name="biblioteca">Library</string>
     <string name="centro_commerciale">Shopping center</string>

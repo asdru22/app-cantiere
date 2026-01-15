@@ -95,7 +95,7 @@
     <string name="trave">Trave</string>
     <string name="tubo_convogliatore_macerie">Tubo convogliatore macerie</string>
     <string name="architrave">Architrave</string>
-    <string name="tamponamento">Tamponamento</string>
+    <string name="muratura_di_tamponamento">Muratura di Tamponamento</string>
     <string name="manto_copertura">Manto copertura</string>
     <string name="gronda">Gronda</string>
     <string name="caldaia">Caldaia</string>
@@ -131,7 +131,7 @@
     <string name="lampadina">Lampadina</string>
     <string name="presa_corrente">Presa corrente</string>
     <string name="scatola_incasso">Scatola incasso</string>
-    <string name="traccia">Traccia</string>
+    <string name="tracciamento_scavi">Tracciamento scavi</string>
     <string name="differenziale">Differenziale</string>
     <string name="corrugato">Corrugato</string>
     <string name="citofono">Citofono</string>
@@ -156,7 +156,7 @@
     <string name="muretto">Muretto</string>
     <string name="muro_parete">Muro parete</string>
     <string name="pavimento">Pavimento</string>
-    <string name="pianerottolo">Pianerottolo</string>
+    <string name="pianerottolo_scala">Pianerottolo</string>
     <string name="piano_casa">Piano casa</string>
     <string name="porta">Porta</string>
     <string name="selciato">Selciato</string>
@@ -305,7 +305,7 @@
     <string name="ospedale">Ospedale</string>
     <string name="piscina">Piscina</string>
     <string name="porto">Porto</string>
-    <string name="stazione">Stazione</string>
+    <string name="stazione_ferroviaria">Stazione</string>
     <string name="museo">Museo</string>
     <string name="biblioteca">Biblioteca</string>
     <string name="centro_commerciale">Centro commerciale</string>

@@ -21,7 +21,7 @@
         "rete_metallica_recinzione",
         "rete_metallica_elettrosaldata",
         "steccato",
-        "tracciato",
+        "tracciamento_scavi",
         "vasca_acqua",
         "recinzione",
         "bagno_chimico",
@@ -58,7 +58,6 @@
     {
       "categoria": "strumenti_e_attrezzi_generici",
       "elementi": [
-        "costruzione",
         "matita",
         "mazzetta",
         "pennellessa",
@@ -169,8 +168,7 @@
         "muretto",
         "muro_parete",
         "pavimento",
-        "pianerottolo",
-        "piano_casa",
+        "pianerottolo_scala",
         "porta",
         "selciato",
         "serramenti_infissi",
@@ -211,7 +209,6 @@
       "categoria": "edili_attrezzi_muratore",
       "elementi": [
         "livella_bolla",
-        "calandro",
         "cassetta_lavoro",
         "cazzuola",
         "cazzuolino",
@@ -338,7 +335,7 @@
         "piscina",
         "ponte",
         "porto",
-        "stazione",
+        "stazione_ferroviaria",
         "museo",
         "biblioteca",
         "centro_commerciale",
