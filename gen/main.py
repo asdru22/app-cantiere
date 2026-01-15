@@ -7,7 +7,7 @@ from google import genai
 from google.genai import types
 
 #json_source_path = Path(r"C:\Users\Ale\Documents\GitHub\AppCantiere\app\src\main\assets\tools_data.json")
-json_source_path = Path(r"fix.json")
+json_source_path = Path(r"C:\Users\Ale\Documents\GitHub\AppCantiere\gen\fix.json")
 
 project_root = json_source_path.parents[4]
 drawable_folder = project_root / "app" / "src" / "main" / "res" / "drawable"
