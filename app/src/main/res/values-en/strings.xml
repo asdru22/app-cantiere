@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">AppCantiere</string>
+
+    <!-- Category: Construction site setup and fencing -->
+    <string name="allestimento_cantiere_e_recinzioni">Construction site setup and fencing</string>
+    <string name="cantiere_recintato">Fenced construction site</string>
+    <string name="baracca">Shed</string>
+    <string name="betoniera">Concrete mixer</string>
+    <string name="braccio_gru">Crane arm</string>
+    <string name="camion">Truck</string>
+    <string name="cartello">Sign</string>
+    <string name="cartello_segnalazione">Warning sign</string>
+    <string name="corda">Rope</string>
+    <string name="deposito_legname">Lumber storage</string>
+    <string name="deposito_mattoni">Brick storage</string>
+    <string name="deposito_pietre">Stone storage</string>
+    <string name="gru">Crane</string>
+    <string name="tettoia">Canopy</string>
+    <string name="paletto">Stake</string>
+    <string name="quadro_elettrico">Electrical panel</string>
+    <string name="rete_metallica_recinzione">Wire mesh fencing</string>
+    <string name="rete_metallica_elettrosaldata">Electrowelded wire mesh</string>
+    <string name="steccato">Picket fence</string>
+    <string name="tracciato">Layout</string>
+    <string name="vasca_acqua">Water tank</string>
+    <string name="recinzione">Fence</string>
+    <string name="bagno_chimico">Possible chemical toilet</string>
+    <string name="gruppo_elettrogeno">Generator</string>
+    <string name="passo_carrabile">Driveway</string>
+
+    <!-- Category: Excavation and foundations -->
+    <string name="scavo_e_fondazioni">Excavation and foundations</string>
+    <string name="armatura">Reinforcement</string>
+    <string name="cassaforma">Formwork</string>
+    <string name="cassero">Formwork case</string>
+    <string name="cravatta">Column clamp</string>
+    <string name="cuneo">Wedge</string>
+    <string name="escavatore">Excavator</string>
+    <string name="fondazioni">Foundations</string>
+    <string name="graffa">Cramp</string>
+    <string name="pilastro">Pillar</string>
+    <string name="plinto">Plinth</string>
+    <string name="scavo">Excavation</string>
+    <string name="segnale_pericolo">Danger sign</string>
+    <string name="silo">Silo</string>
+    <string name="suolo">Ground</string>
+    <string name="terreno">Terrain</string>
+    <string name="vespaio">Crawl space</string>
+    <string name="pali_fondazione">Foundation piles</string>
+    <string name="platea">Slab</string>
+    <string name="magrone">Lean concrete</string>
+    <string name="geotessuto">Geotextile</string>
+
+    <!-- Category: General tools and equipment -->
+    <string name="strumenti_e_attrezzi_generici">General tools and equipment</string>
+    <string name="costruzione">Construction</string>
+    <string name="matita">Pencil</string>
+    <string name="mazzetta">Mallet</string>
+    <string name="pennellessa">Large flat brush</string>
+    <string name="riga">Ruler</string>
+    <string name="scalpello">Chisel</string>
+    <string name="squadra">Square</string>
+    <string name="badile">Shovel</string>
+    <string name="staggia">Straightedge</string>
+    <string name="secchio">Bucket</string>
+    <string name="carriola">Wheelbarrow</string>
+    <string name="mazza">Sledgehammer</string>
+    <string name="apertura_nella_muratura">Opening in masonry</string>
+    <string name="traccia_nella_muratura_per_impianto">Chase in masonry for systems</string>
+    <string name="traccia_nel_pavimento_per_impianto">Chase in floor for systems</string>
+
+    <!-- Category: Structures, scaffolding and roofing -->
+    <string name="strutture_ponteggi_e_coperture">Structures, scaffolding and roofing</string>
+    <string name="arco_in_pietra">Stone arch</string>
+    <string name="arco_in_mattoni">Brick arch</string>
+    <string name="centina">Centering</string>
+    <string name="comignolo">Chimney pot</string>
+    <string name="impalcatura">Scaffolding</string>
+    <string name="ponteggio">Scaffolding</string>
+    <string name="luce_segnalazione">Warning light</string>
+    <string name="materiale_risulta">Waste material</string>
+    <string name="messa_a_terra_impianto_elettrico">Electrical earthing</string>
+    <string name="morsetto">Clamp</string>
+    <string name="nastro_segnaletico">Warning tape</string>
+    <string name="pannello_prefabbricato">Prefabricated panel</string>
+    <string name="passerella">Walkway</string>
+    <string name="ponte">Deck</string>
+    <string name="puntello">Prop</string>
+    <string name="scala">Ladder</string>
+    <string name="solaio">Floor slab</string>
+    <string name="soletta">Slab</string>
+    <string name="tavola_fermapiede">Toe board</string>
+    <string name="telo_plastica_nylon">Plastic sheet</string>
+    <string name="tetto">Roof</string>
+    <string name="trave">Beam</string>
+    <string name="tubo_convogliatore_macerie">Rubble chute</string>
+    <string name="architrave">Lintel</string>
+    <string name="tamponamento">Infill wall</string>
+    <string name="manto_copertura">Covering</string>
+    <string name="gronda">Eaves</string>
+    <string name="caldaia">Boiler</string>
+    <string name="canna_fumaria">Flue</string>
+
+    <!-- Category: Thermal, hydraulic and sanitary systems -->
+    <string name="impianti_termico_idraulico_e_sanitario">Thermal, hydraulic and sanitary systems</string>
+    <string name="caminetto">Fireplace</string>
+    <string name="contatore_gas">Gas meter</string>
+    <string name="radiatore">Radiator</string>
+    <string name="tubo">Pipe</string>
+    <string name="bidet">Bidet</string>
+    <string name="cassetta_water">Toilet cistern</string>
+    <string name="doccia">Shower</string>
+    <string name="lavandino">Sink</string>
+    <string name="rubinetto">Tap</string>
+    <string name="sanitari">Sanitary fixtures</string>
+    <string name="scaldabagno">Water heater</string>
+    <string name="scarico">Drain</string>
+    <string name="vasca_bagno">Bathtub</string>
+    <string name="water">Toilet</string>
+    <string name="collettore">Manifold</string>
+    <string name="pompa_calore">Heat pump</string>
+    <string name="termocamino">Thermal fireplace</string>
+    <string name="valvola_termostatica">Thermostatic valve</string>
+    <string name="sifone">Siphon</string>
+
+    <!-- Category: Electrical systems -->
+    <string name="impianti_elettrico">Electrical systems</string>
+    <string name="contatore_luce">Electricity meter</string>
+    <string name="interruttore">Switch</string>
+    <string name="lampada">Lamp</string>
+    <string name="lampadina">Light bulb</string>
+    <string name="presa_corrente">Power socket</string>
+    <string name="scatola_incasso">Junction box</string>
+    <string name="traccia">Chase</string>
+    <string name="differenziale">RCD</string>
+    <string name="corrugato">Corrugated conduit</string>
+    <string name="citofono">Intercom</string>
+    <string name="pulsante">Push button</string>
+    <string name="morsettiera">Terminal block</string>
+
+    <!-- Category: Home finishes (exterior and interior) -->
+    <string name="finiture_casa_esterno_e_interno">Home finishes (exterior and interior)</string>
+    <string name="ascensore">Elevator</string>
+    <string name="balcone">Balcony</string>
+    <string name="battiscopa">Skirting board</string>
+    <string name="cancello">Gate</string>
+    <string name="cardine">Hinge</string>
+    <string name="corrimano">Handrail</string>
+    <string name="davanzale">Windowsill</string>
+    <string name="facciata">Facade</string>
+    <string name="finestra">Window</string>
+    <string name="gradino">Step</string>
+    <string name="grondaia">Gutter</string>
+    <string name="inferriata">Grating</string>
+    <string name="locale">Room</string>
+    <string name="muretto">Low wall</string>
+    <string name="muro_parete">Wall</string>
+    <string name="pavimento">Floor</string>
+    <string name="pianerottolo">Landing</string>
+    <string name="piano_casa">Floor</string>
+    <string name="porta">Door</string>
+    <string name="selciato">Cobblestone</string>
+    <string name="serramenti_infissi">Fixtures</string>
+    <string name="soffitto">Ceiling</string>
+    <string name="intonaco">Plaster</string>
+    <string name="tinteggiatura">Painting</string>
+    <string name="stucco">Stucco</string>
+    <string name="zoccolino">Skirting</string>
+    <string name="soglia">Threshold</string>
+
+    <!-- Category: Workers -->
+    <string name="lavoratori">Workers</string>
+    <string name="architetto">Architect</string>
+    <string name="ingegnere">Engineer</string>
+    <string name="geometra">Surveyor</string>
+    <string name="topografo">Topographer</string>
+    <string name="capocantiere">Site manager</string>
+    <string name="caposquadra">Team leader</string>
+    <string name="carpentiere">Carpenter</string>
+    <string name="elettricista">Electrician</string>
+    <string name="falegname">Joiner</string>
+    <string name="ferraiolo">Steel fixer</string>
+    <string name="gruista">Crane operator</string>
+    <string name="idraulico">Plumber</string>
+    <string name="imbianchino">Painter</string>
+    <string name="lattoniere">Tinsmith</string>
+    <string name="manovale">Laborer</string>
+    <string name="muratore">Mason</string>
+    <string name="pavimentista">Floor layer</string>
+    <string name="scavatorista">Excavator operator</string>
+    <string name="ponteggiatore">Scaffolder</string>
+    <string name="serramentista">Window fitter</string>
+
+    <!-- Category: Construction: mason's tools -->
+    <string name="edili_attrezzi_muratore">Construction: mason\'s tools</string>
+    <string name="livella_bolla">Spirit level</string>
+    <string name="calandro">Pulley</string>
+    <string name="cassetta_lavoro">Toolbox</string>
+    <string name="cazzuola">Trowel</string>
+    <string name="cazzuolino">Small trowel</string>
+    <string name="doppiometro">Folding ruler</string>
+    <string name="filo_allineamento">Alignment line</string>
+    <string name="filo_piombo">Plumb line</string>
+    <string name="fratazzo_fratazzino">Float</string>
+    <string name="martellina">Mason\'s hammer</string>
+
+    <!-- Category: Personal Protective Equipment (PPE) -->
+    <string name="dispositivi_protezione_individuale_dpi">Personal Protective Equipment (PPE)</string>
+    <string name="casco_elmetto">Helmet</string>
+    <string name="visiera_paraschizzi">Face shield</string>
+    <string name="scarpe_antinfortunistiche">Safety shoes</string>
+    <string name="guanti_lavoro">Work gloves</string>
+    <string name="guanti_dielettrici">Dielectric gloves</string>
+    <string name="occhiali_protettivi">Safety goggles</string>
+    <string name="cuffie_antirumore">Earmuffs</string>
+    <string name="tappi_auricolari">Earplugs</string>
+    <string name="mascherina_respiratore">Respirator</string>
+    <string name="imbracatura_sicurezza">Safety harness</string>
+    <string name="giubbotto_alta_visibilità">High-visibility vest</string>
+
+    <!-- Category: Construction work: steel fixer and carpenter tools -->
+    <string name="lavori_edili_attrezzi_ferraiolo_e_carpentiere">Construction work: steel fixer and carpenter tools</string>
+    <string name="barra_acciaio">Steel bar</string>
+    <string name="cesoie">Shears</string>
+    <string name="filo_ferro">Iron wire</string>
+    <string name="gabbia">Cage</string>
+    <string name="lima">File</string>
+    <string name="piegaferri">Bar bender</string>
+    <string name="piegatrice_elettrica">Electric bender</string>
+    <string name="saldatrice">Welding machine</string>
+    <string name="tenaglie">Pincers</string>
+    <string name="cacciavite">Screwdriver</string>
+    <string name="chiodo">Nail</string>
+    <string name="dado">Nut</string>
+    <string name="martello">Hammer</string>
+    <string name="morsa">Vise</string>
+    <string name="pialla">Plane</string>
+    <string name="sega_circolare">Circular saw</string>
+    <string name="vite">Screw</string>
+    <string name="tenaglia_ferraiolo">Steel fixer\'s pincers</string>
+    <string name="avvitatore">Drill driver</string>
+    <string name="puntello_regolabile">Adjustable prop</string>
+    <string name="chiave_bussola">Socket wrench</string>
+    <string name="estrattore">Extractor</string>
+
+    <!-- Category: Installers and finishers -->
+    <string name="impiantisti_e_rifinitori">Installers and finishers</string>
+    <string name="chiave_inglese">Adjustable wrench</string>
+    <string name="filiera">Die stock</string>
+    <string name="pinza">Pliers</string>
+    <string name="forbici">Scissors</string>
+    <string name="trapano">Drill</string>
+    <string name="cavalletto">Trestle</string>
+    <string name="colore">Paint</string>
+    <string name="flessibile">Angle grinder</string>
+    <string name="piastrella">Tile</string>
+    <string name="rullo">Roller</string>
+    <string name="spatola">Spatula</string>
+    <string name="paglietta">Steel wool</string>
+    <string name="miscelatore">Mixer</string>
+    <string name="ventosa_piastrelle">Tile suction cup</string>
+    <string name="tagliapiastrelle">Tile cutter</string>
+    <string name="raschietto">Scraper</string>
+
+    <!-- Category: Construction site machines and materials -->
+    <string name="macchine_cantiere_e_materiali">Construction site machines and materials</string>
+    <string name="autobetoniera">Concrete mixer truck</string>
+    <string name="benna_gru">Crane bucket</string>
+    <string name="carrello_elevatore">Forklift</string>
+    <string name="intonacatrice">Plastering machine</string>
+    <string name="montacarichi">Hoist</string>
+    <string name="calcestruzzo_armato">Reinforced concrete</string>
+    <string name="calce">Lime</string>
+    <string name="cemento">Cement</string>
+    <string name="malta">Mortar</string>
+    <string name="sabbia">Sand</string>
+    <string name="ghiaia">Gravel</string>
+    <string name="mattone_forato">Hollow brick</string>
+    <string name="mattone_pieno">Solid brick</string>
+    <string name="coppo">Bent tile</string>
+    <string name="tegola">Roof tile</string>
+    <string name="marmo">Marble</string>
+    <string name="pietra">Stone</string>
+    <string name="trave_cemento_armato">Reinforced concrete beam</string>
+    <string name="dumper">Dumper</string>
+    <string name="rullo_compressore">Road roller</string>
+    <string name="piastra_vibrante">Vibrating plate</string>
+    <string name="argilla_espansa">Expanded clay</string>
+    <string name="lana_vetro">Glass wool</string>
+
+    <!-- Category: Construction types -->
+    <string name="tipologie_costruzioni">Construction types</string>
+    <string name="albergo">Hotel</string>
+    <string name="aeroporto">Airport</string>
+    <string name="autostrada">Highway</string>
+    <string name="strada">Road</string>
+    <string name="banca">Bank</string>
+    <string name="chiesa">Church</string>
+    <string name="scuola">School</string>
+    <string name="condominio">Condominium</string>
+    <string name="villetta_schiera">Townhouse</string>
+    <string name="grattacielo">Skyscraper</string>
+    <string name="fabbrica">Factory</string>
+    <string name="garage">Garage</string>
+    <string name="ospedale">Hospital</string>
+    <string name="piscina">Swimming pool</string>
+    <string name="porto">Port</string>
+    <string name="stazione">Station</string>
+    <string name="museo">Museum</string>
+    <string name="biblioteca">Library</string>
+    <string name="centro_commerciale">Shopping center</string>
+    <string name="stadio">Stadium</string>
+    <string name="auditorium">Auditorium</string>
+</resources>

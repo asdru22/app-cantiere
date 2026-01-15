@@ -1,0 +1,16 @@
+{
+  "glossario_cantiere": [
+    {
+      "categoria": "IL CANTIERE",
+      "elementi": [
+        "baracca"
+      ]
+    },
+    {
+      "categoria": "ALTRO",
+      "elementi": [
+        "altro_elemento"
+      ]
+    }
+  ]
+}

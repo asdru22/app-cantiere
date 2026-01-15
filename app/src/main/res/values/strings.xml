@@ -1,0 +1,314 @@
+<resources>
+    <string name="app_name" translatable="false">AppCantiere</string>
+
+    <!-- Categoria: Allestimento cantiere e recinzioni -->
+    <string name="allestimento_cantiere_e_recinzioni">Allestimento cantiere e recinzioni</string>
+    <string name="cantiere_recintato">Cantiere recintato</string>
+    <string name="baracca">Baracca</string>
+    <string name="betoniera">Betoniera</string>
+    <string name="braccio_gru">Braccio gru</string>
+    <string name="camion">Camion</string>
+    <string name="cartello">Cartello</string>
+    <string name="cartello_segnalazione">Cartello segnalazione</string>
+    <string name="corda">Corda</string>
+    <string name="deposito_legname">Deposito legname</string>
+    <string name="deposito_mattoni">Deposito mattoni</string>
+    <string name="deposito_pietre">Deposito pietre</string>
+    <string name="gru">Gru</string>
+    <string name="tettoia">Tettoia</string>
+    <string name="paletto">Paletto</string>
+    <string name="quadro_elettrico">Quadro elettrico</string>
+    <string name="rete_metallica_recinzione">Rete metallica recinzione</string>
+    <string name="rete_metallica_elettrosaldata">Rete metallica elettrosaldata</string>
+    <string name="steccato">Steccato</string>
+    <string name="tracciato">Tracciato</string>
+    <string name="vasca_acqua">Vasca acqua</string>
+    <string name="recinzione">Recinzione</string>
+    <string name="bagno_chimico">Bagno chimico</string>
+    <string name="gruppo_elettrogeno">Gruppo elettrogeno</string>
+    <string name="passo_carrabile">Passo carrabile</string>
+
+    <!-- Categoria: Scavo e fondazioni -->
+    <string name="scavo_e_fondazioni">Scavo e fondazioni</string>
+    <string name="armatura">Armatura</string>
+    <string name="cassaforma">Cassaforma</string>
+    <string name="cassero">Cassero</string>
+    <string name="cravatta">Cravatta</string>
+    <string name="cuneo">Cuneo</string>
+    <string name="escavatore">Escavatore</string>
+    <string name="fondazioni">Fondazioni</string>
+    <string name="graffa">Graffa</string>
+    <string name="pilastro">Pilastro</string>
+    <string name="plinto">Plinto</string>
+    <string name="scavo">Scavo</string>
+    <string name="segnale_pericolo">Segnale pericolo</string>
+    <string name="silo">Silo</string>
+    <string name="suolo">Suolo</string>
+    <string name="terreno">Terreno</string>
+    <string name="vespaio">Vespaio</string>
+    <string name="pali_fondazione">Pali fondazione</string>
+    <string name="platea">Platea</string>
+    <string name="magrone">Magrone</string>
+    <string name="geotessuto">Geotessuto</string>
+
+    <!-- Categoria: Strumenti e attrezzi generici -->
+    <string name="strumenti_e_attrezzi_generici">Strumenti e attrezzi generici</string>
+    <string name="costruzione">Costruzione</string>
+    <string name="matita">Matita</string>
+    <string name="mazzetta">Mazzetta</string>
+    <string name="pennellessa">Pennellessa</string>
+    <string name="riga">Riga</string>
+    <string name="scalpello">Scalpello</string>
+    <string name="squadra">Squadra</string>
+    <string name="badile">Badile</string>
+    <string name="staggia">Staggia</string>
+    <string name="secchio">Secchio</string>
+    <string name="carriola">Carriola</string>
+    <string name="mazza">Mazza</string>
+    <string name="apertura_nella_muratura">Apertura nella muratura</string>
+    <string name="traccia_nella_muratura_per_impianto">Traccia nella muratura per impianto</string>
+    <string name="traccia_nel_pavimento_per_impianto">Traccia nel pavimento per impianto</string>
+
+    <!-- Categoria: Strutture, ponteggi e coperture -->
+    <string name="strutture_ponteggi_e_coperture">Strutture, ponteggi e coperture</string>
+    <string name="arco_in_pietra">Arco in pietra</string>
+    <string name="arco_in_mattoni">Arco in mattoni</string>
+    <string name="centina">Centina</string>
+    <string name="comignolo">Comignolo</string>
+    <string name="impalcatura">Impalcatura</string>
+    <string name="ponteggio">Ponteggio</string>
+    <string name="luce_segnalazione">Luce segnalazione</string>
+    <string name="materiale_risulta">Materiale risulta</string>
+    <string name="messa_a_terra_impianto_elettrico">Messa a terra impianto elettrico</string>
+    <string name="morsetto">Morsetto</string>
+    <string name="nastro_segnaletico">Nastro segnaletico</string>
+    <string name="pannello_prefabbricato">Pannello prefabbricato</string>
+    <string name="passerella">Passerella</string>
+    <string name="ponte">Ponte</string>
+    <string name="puntello">Puntello</string>
+    <string name="scala">Scala</string>
+    <string name="solaio">Solaio</string>
+    <string name="soletta">Soletta</string>
+    <string name="tavola_fermapiede">Tavola fermapiede</string>
+    <string name="telo_plastica_nylon">Telo plastica nylon</string>
+    <string name="tetto">Tetto</string>
+    <string name="trave">Trave</string>
+    <string name="tubo_convogliatore_macerie">Tubo convogliatore macerie</string>
+    <string name="architrave">Architrave</string>
+    <string name="tamponamento">Tamponamento</string>
+    <string name="manto_copertura">Manto copertura</string>
+    <string name="gronda">Gronda</string>
+    <string name="caldaia">Caldaia</string>
+    <string name="canna_fumaria">Canna fumaria</string>
+
+    <!-- Categoria: Impianti termico, idraulico e sanitario -->
+    <string name="impianti_termico_idraulico_e_sanitario">Impianti termico, idraulico e sanitario</string>
+    <string name="caminetto">Caminetto</string>
+    <string name="contatore_gas">Contatore gas</string>
+    <string name="radiatore">Radiatore</string>
+    <string name="tubo">Tubo</string>
+    <string name="bidet">Bidet</string>
+    <string name="cassetta_water">Cassetta water</string>
+    <string name="doccia">Doccia</string>
+    <string name="lavandino">Lavandino</string>
+    <string name="rubinetto">Rubinetto</string>
+    <string name="sanitari">Sanitari</string>
+    <string name="scaldabagno">Scaldabagno</string>
+    <string name="scarico">Scarico</string>
+    <string name="vasca_bagno">Vasca bagno</string>
+    <string name="water">Water</string>
+    <string name="collettore">Collettore</string>
+    <string name="pompa_calore">Pompa calore</string>
+    <string name="termocamino">Termocamino</string>
+    <string name="valvola_termostatica">Valvola termostatica</string>
+    <string name="sifone">Sifone</string>
+
+    <!-- Categoria: Impianti elettrico -->
+    <string name="impianti_elettrico">Impianti elettrico</string>
+    <string name="contatore_luce">Contatore luce</string>
+    <string name="interruttore">Interruttore</string>
+    <string name="lampada">Lampada</string>
+    <string name="lampadina">Lampadina</string>
+    <string name="presa_corrente">Presa corrente</string>
+    <string name="scatola_incasso">Scatola incasso</string>
+    <string name="traccia">Traccia</string>
+    <string name="differenziale">Differenziale</string>
+    <string name="corrugato">Corrugato</string>
+    <string name="citofono">Citofono</string>
+    <string name="pulsante">Pulsante</string>
+    <string name="morsettiera">Morsettiera</string>
+
+    <!-- Categoria: Finiture casa (esterno e interno) -->
+    <string name="finiture_casa_esterno_e_interno">Finiture casa (esterno e interno)</string>
+    <string name="ascensore">Ascensore</string>
+    <string name="balcone">Balcone</string>
+    <string name="battiscopa">Battiscopa</string>
+    <string name="cancello">Cancello</string>
+    <string name="cardine">Cardine</string>
+    <string name="corrimano">Corrimano</string>
+    <string name="davanzale">Davanzale</string>
+    <string name="facciata">Facciata</string>
+    <string name="finestra">Finestra</string>
+    <string name="gradino">Gradino</string>
+    <string name="grondaia">Grondaia</string>
+    <string name="inferriata">Inferriata</string>
+    <string name="locale">Locale</string>
+    <string name="muretto">Muretto</string>
+    <string name="muro_parete">Muro parete</string>
+    <string name="pavimento">Pavimento</string>
+    <string name="pianerottolo">Pianerottolo</string>
+    <string name="piano_casa">Piano casa</string>
+    <string name="porta">Porta</string>
+    <string name="selciato">Selciato</string>
+    <string name="serramenti_infissi">Serramenti infissi</string>
+    <string name="soffitto">Soffitto</string>
+    <string name="intonaco">Intonaco</string>
+    <string name="tinteggiatura">Tinteggiatura</string>
+    <string name="stucco">Stucco</string>
+    <string name="zoccolino">Zoccolino</string>
+    <string name="soglia">Soglia</string>
+
+    <!-- Categoria: Lavoratori -->
+    <string name="lavoratori">Lavoratori</string>
+    <string name="architetto">Architetto</string>
+    <string name="ingegnere">Ingegnere</string>
+    <string name="geometra">Geometra</string>
+    <string name="topografo">Topografo</string>
+    <string name="capocantiere">Capocantiere</string>
+    <string name="caposquadra">Caposquadra</string>
+    <string name="carpentiere">Carpentiere</string>
+    <string name="elettricista">Elettricista</string>
+    <string name="falegname">Falegname</string>
+    <string name="ferraiolo">Ferraiolo</string>
+    <string name="gruista">Gruista</string>
+    <string name="idraulico">Idraulico</string>
+    <string name="imbianchino">Imbianchino</string>
+    <string name="lattoniere">Lattoniere</string>
+    <string name="manovale">Manovale</string>
+    <string name="muratore">Muratore</string>
+    <string name="pavimentista">Pavimentista</string>
+    <string name="scavatorista">Scavatorista</string>
+    <string name="ponteggiatore">Ponteggiatore</string>
+    <string name="serramentista">Serramentista</string>
+
+    <!-- Categoria: Edili: attrezzi muratore -->
+    <string name="edili_attrezzi_muratore">Edili: attrezzi muratore</string>
+    <string name="livella_bolla">Livella bolla</string>
+    <string name="calandro">Calandro</string>
+    <string name="cassetta_lavoro">Cassetta lavoro</string>
+    <string name="cazzuola">Cazzuola</string>
+    <string name="cazzuolino">Cazzuolino</string>
+    <string name="doppiometro">Doppiometro</string>
+    <string name="filo_allineamento">Filo allineamento</string>
+    <string name="filo_piombo">Filo piombo</string>
+    <string name="fratazzo_fratazzino">Fratazzo fratazzino</string>
+    <string name="martellina">Martellina</string>
+
+    <!-- Categoria: Dispositivi di protezione individuale (DPI) -->
+    <string name="dispositivi_protezione_individuale_dpi">Dispositivi di protezione individuale (DPI)</string>
+    <string name="casco_elmetto">Casco elmetto</string>
+    <string name="visiera_paraschizzi">Visiera paraschizzi</string>
+    <string name="scarpe_antinfortunistiche">Scarpe antinfortunistiche</string>
+    <string name="guanti_lavoro">Guanti lavoro</string>
+    <string name="guanti_dielettrici">Guanti dielettrici</string>
+    <string name="occhiali_protettivi">Occhiali protettivi</string>
+    <string name="cuffie_antirumore">Cuffie antirumore</string>
+    <string name="tappi_auricolari">Tappi auricolari</string>
+    <string name="mascherina_respiratore">Mascherina respiratore</string>
+    <string name="imbracatura_sicurezza">Imbracatura sicurezza</string>
+    <string name="giubbotto_alta_visibilità">Giubbotto alta visibilità</string>
+
+    <!-- Categoria: Lavori edili: attrezzi ferraiolo e carpentiere -->
+    <string name="lavori_edili_attrezzi_ferraiolo_e_carpentiere">Lavori edili: attrezzi ferraiolo e carpentiere</string>
+    <string name="barra_acciaio">Barra acciaio</string>
+    <string name="cesoie">Cesoie</string>
+    <string name="filo_ferro">Filo ferro</string>
+    <string name="gabbia">Gabbia</string>
+    <string name="lima">Lima</string>
+    <string name="piegaferri">Piegaferri</string>
+    <string name="piegatrice_elettrica">Piegatrice elettrica</string>
+    <string name="saldatrice">Saldatrice</string>
+    <string name="tenaglie">Tenaglie</string>
+    <string name="cacciavite">Cacciavite</string>
+    <string name="chiodo">Chiodo</string>
+    <string name="dado">Dado</string>
+    <string name="martello">Martello</string>
+    <string name="morsa">Morsa</string>
+    <string name="pialla">Pialla</string>
+    <string name="sega_circolare">Sega circolare</string>
+    <string name="vite">Vite</string>
+    <string name="tenaglia_ferraiolo">Tenaglia ferraiolo</string>
+    <string name="avvitatore">Avvitatore</string>
+    <string name="puntello_regolabile">Puntello regolabile</string>
+    <string name="chiave_bussola">Chiave bussola</string>
+    <string name="estrattore">Estrattore</string>
+
+    <!-- Categoria: Impiantisti e rifinitori -->
+    <string name="impiantisti_e_rifinitori">Impiantisti e rifinitori</string>
+    <string name="chiave_inglese">Chiave inglese</string>
+    <string name="filiera">Filiera</string>
+    <string name="pinza">Pinza</string>
+    <string name="forbici">Forbici</string>
+    <string name="trapano">Trapano</string>
+    <string name="cavalletto">Cavalletto</string>
+    <string name="colore">Colore</string>
+    <string name="flessibile">Flessibile</string>
+    <string name="piastrella">Piastrella</string>
+    <string name="rullo">Rullo</string>
+    <string name="spatola">Spatola</string>
+    <string name="paglietta">Paglietta</string>
+    <string name="miscelatore">Miscelatore</string>
+    <string name="ventosa_piastrelle">Ventosa piastrelle</string>
+    <string name="tagliapiastrelle">Tagliapiastrelle</string>
+    <string name="raschietto">Raschietto</string>
+
+    <!-- Categoria: Macchine cantiere e materiali -->
+    <string name="macchine_cantiere_e_materiali">Macchine cantiere e materiali</string>
+    <string name="autobetoniera">Autobetoniera</string>
+    <string name="benna_gru">Benna gru</string>
+    <string name="carrello_elevatore">Carrello elevatore</string>
+    <string name="intonacatrice">Intonacatrice</string>
+    <string name="montacarichi">Montacarichi</string>
+    <string name="calcestruzzo_armato">Calcestruzzo armato</string>
+    <string name="calce">Calce</string>
+    <string name="cemento">Cemento</string>
+    <string name="malta">Malta</string>
+    <string name="sabbia">Sabbia</string>
+    <string name="ghiaia">Ghiaia</string>
+    <string name="mattone_forato">Mattone forato</string>
+    <string name="mattone_pieno">Mattone pieno</string>
+    <string name="coppo">Coppo</string>
+    <string name="tegola">Tegola</string>
+    <string name="marmo">Marmo</string>
+    <string name="pietra">Pietra</string>
+    <string name="trave_cemento_armato">Trave cemento armato</string>
+    <string name="dumper">Dumper</string>
+    <string name="rullo_compressore">Rullo compressore</string>
+    <string name="piastra_vibrante">Piastra vibrante</string>
+    <string name="argilla_espansa">Argilla espansa</string>
+    <string name="lana_vetro">Lana vetro</string>
+
+    <!-- Categoria: Tipologie costruzioni -->
+    <string name="tipologie_costruzioni">Tipologie costruzioni</string>
+    <string name="albergo">Albergo</string>
+    <string name="aeroporto">Aeroporto</string>
+    <string name="autostrada">Autostrada</string>
+    <string name="strada">Strada</string>
+    <string name="banca">Banca</string>
+    <string name="chiesa">Chiesa</string>
+    <string name="scuola">Scuola</string>
+    <string name="condominio">Condominio</string>
+    <string name="villetta_schiera">Villetta schiera</string>
+    <string name="grattacielo">Grattacielo</string>
+    <string name="fabbrica">Fabbrica</string>
+    <string name="garage">Garage</string>
+    <string name="ospedale">Ospedale</string>
+    <string name="piscina">Piscina</string>
+    <string name="porto">Porto</string>
+    <string name="stazione">Stazione</string>
+    <string name="museo">Museo</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="centro_commerciale">Centro commerciale</string>
+    <string name="stadio">Stadio</string>
+    <string name="auditorium">Auditorium</string>
+</resources>
